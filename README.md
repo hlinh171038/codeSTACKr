@@ -58,6 +58,9 @@
 <br />
 
 ---
+### Latest Blog Posts
+<!-- Blog Post list:start -->
+<!-- Blog Post list:end -->
 
 ### 📺 Latest YouTube Videos
 
